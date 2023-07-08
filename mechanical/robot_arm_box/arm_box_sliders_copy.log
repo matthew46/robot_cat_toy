@@ -1,0 +1,29 @@
+Solid Edge Translation to STL
+Date: Monday,March 08,2021 06:34PM
+Source File:C:\Users\Matthew\Documents\Cat_Toy_Robot\robot_arm_box\arm_box_sliders_copy.par
+Source System: SOLID EDGE
+
+Hardware:
+Processor: AMD Ryzen 5 3600 6-Core Processor              
+Operating System: Windows 10 Professional
+Installed Memory: 31.93 GB
+
+Software Information:
+Parasolid Version: 31.1.255
+PSBodyshop Version: 31.1.110
+Solid Edge Version: 220.00.00.104 x64
+
+STL Export Options:
+Output File Format:BINARY
+Export Displayed Parts:Off
+structureOption: Monolithic
+Export Units:Inch
+Export Tolerance Value:0.050000
+Export Tolerance Type:Custom
+Export Surface Plane Angle Value:0.523599
+
+Translation progress:
+Phase 1 of 2 Fetching Parasolid information...
+Number of STL file Created : 1
+Translation process completed
+Time required to translate:00 : 00 : 00
