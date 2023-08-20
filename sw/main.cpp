@@ -106,7 +106,7 @@ void loop()
   //delay(1000);
 
   int value;
-  value = digitalRead(DIN_LEFT_PIN);
+  value = digitalRead(DIN_LEF7T_PIN);
   if (value)
     step_angle(-15);
   else

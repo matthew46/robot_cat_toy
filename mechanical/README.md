@@ -1,0 +1,2 @@
+This repo contains mechanical drawings in Solid Edge. Parts are divided .par files and Assemblies are .asm file.
+The subdirectories follow a nested structure with multiple .par files and one assembly file in each directory

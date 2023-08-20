@@ -1,0 +1,1 @@
+Motor Gearbox Reduction 1:6.5 by jtronics on Thingiverse: https://www.thingiverse.com/thing:3603555
